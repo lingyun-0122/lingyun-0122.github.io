@@ -4,7 +4,7 @@ title: About
 permalink: /about/
 ---
 
-你好，这是我的博客，欢迎光临！
+你好，这是衍的博客，欢迎光临！
 
 ### More Information
 
