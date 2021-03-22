@@ -4,7 +4,7 @@ title: About
 permalink: /about/
 ---
 
-Some information about you!
+你好，这是我的博客，欢迎光临！
 
 ### More Information
 
