@@ -1,3 +1,2 @@
 layout: post
-
-title: you're up and running!
+title: You're up and running!
