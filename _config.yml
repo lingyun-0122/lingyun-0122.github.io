@@ -6,7 +6,7 @@
 name: Gordon
 
 # Short bio or description (displayed in the header)
-description: 裕昌承祖德，万世尚清芳
+description: 我就是我，颜色不一样的烟火
 
 # URL of your avatar or profile pic (you could use your GitHub profile pic)
 avatar: https://raw.githubusercontent.com/barryclark/jekyll-now/master/images/jekyll-logo.png
@@ -18,10 +18,10 @@ avatar: https://raw.githubusercontent.com/barryclark/jekyll-now/master/images/je
 # Includes an icon in the footer for each username you enter
 footer-links:
   dribbble:
-  email:fangyanchen4@gmail.com
+  email:
   facebook:
   flickr:
-  github: lingyun-0122
+  github: barryclark/jekyll-now
   instagram:
   linkedin:
   pinterest:
